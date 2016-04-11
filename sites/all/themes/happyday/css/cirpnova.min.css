@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "CIRPnova_D";
+    src: url("../fonts/CIRPNOVA_D.eot?") format("eot"),
+    url("../fonts/CIRPNOVA_D.woff") format("woff"),
+    url("../fonts/CIRPNOVA_D.ttf") format("truetype"),
+    url("../fonts/CIRPNOVA_D.svg#CIRPnova_D") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}

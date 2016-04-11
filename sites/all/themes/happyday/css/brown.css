@@ -1,0 +1,95 @@
+body {
+	background-image:url(../images/brown/main_back.jpg)!important;
+}
+h2 {
+	color:#C9B6A1
+}
+h2:after {
+	background: url(../images/brown/bullet.png);
+	background-size: cover;
+}
+.bullet {
+	background: url(../images/brown/bullet.png);
+	background-size: cover;
+}
+.im_arrows {
+	background: url(../images/brown/im_arrow_full.png);
+	background-size: cover;
+}
+.guest_photo:after {
+	background: url(../images/brown/im_arrow_full.png);
+}
+
+
+.btn, .submit, .search-submit {
+	color:#C9B6A1!important;
+	border: 2px solid #C9B6A1
+	
+}
+	.btn:hover {
+		background:#e77f66;
+		color:#fff!important
+	}
+	.btn:active, .btn:focus {
+		background:#e77f66;
+	}
+.married_coundown {
+	color: #e77f66;
+}
+.double_arrow {
+	background: url(../images/brown/double_arrow.png);
+	background-size: cover;
+}
+
+.owl-pagination {
+	background: url(../images/brown/arrow_back.png) repeat-x;
+	background-size: cover
+}
+.owl-pagination:before {
+	background: url(../images/brown/arrow_end.png);
+	background-size: cover;
+}
+.owl-pagination:after {
+	background: url(../images/brown/arrow_start.png);
+	background-size: cover;
+}
+.owl-page:after {
+	background: url(../images/brown/bullet.png);
+	background-size: cover
+}
+.owl-page.active:after {
+	background: url(../images/brown/bullet_active.png);
+	background-size: cover
+}
+
+.story_title, .story_title i {
+	color: #C9B6A1;
+}
+.story_title:before, .story_title:after {
+	background:#C9B6A1;
+}
+
+.when_where .over{
+	background:rgba(89,89,89,0.83);
+}
+.footer .over {
+	background:rgba(89,89,89,0.43);
+}
+.paper {
+	background:url(../images/brown/paper.jpg);
+}
+.envelope_back {
+	background:url(../images/brown/env_back.jpg);
+}
+.env_top {
+	background: url(../images/brown/env_top.png);
+}
+.env_top_top {
+	background: url(../images/brown/env_top_top.png);
+}
+.envelope_front {
+	background:url(../images/brown/envelope_front.png);
+}
+.paper .paper_title {
+	color: #e77f66;
+}
