@@ -882,12 +882,13 @@ hr {
 #about  {
     overflow: visible!important;
 }
-.best-man .container, .our-parents .container {
-    padding: 60px 0 0
+.best-man .container {
+    padding: 80px 0 80px 0;
 }
-.best-man .btn, .our-parents .btn {
-    margin: 30px 0 10px!important
+.our-parents .container {
+    padding: 10px 0 20px 0;
 }
+
 .marries_left {
     float: left;
     width: 33%;
@@ -2968,7 +2969,13 @@ button, input, select, textarea, button, input[type="button"], input[type="reset
     font-family: 'PresentScript Cyrillic', arial!important;
     font-size: 18px!important;
 }
-.blog_item a, .blog_item .news_txt {
+
+.blog_item .news_txt , .blog_item b{
     font-family: 'PresentScript Cyrillic', arial!important;
     font-size: 18px!important;
+}
+.blog_item h3{
+    font-family: 'PresentScript Cyrillic', arial!important;
+    font-size: 22px!important;
+    color: #776E5C;
 }
